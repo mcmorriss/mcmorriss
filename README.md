@@ -1,6 +1,6 @@
 # 👋  Hello, I'm Michael! Software Developer and Avid Learner
 
-- 👋 Hi, I’m Michael, a Senior Computer Science Student @ Oregon State University! 
+- 👋 Hi, I’m **Michael**, a **Software Develope** & **Senior Computer Science Student @ Oregon State University!** 
 - 👀 I’m enjoy actively learning about Back-end REST API Cloud Development with **Google Cloud Platform**, **Terraform**, & the **MERN stack**.
 - 🤘🏻  I'm familiarizing myself with **Docker** and **Kubernetes**.
 - 🌱 I’m looking forward to learning about **NextJS**, **Rust**, and **Go**.
