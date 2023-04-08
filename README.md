@@ -1,9 +1,9 @@
-# 👋  Hello, I'm Michael, Software Developer and Senior Computer Science Student @ Oregon State University!
+# 👋  Hello, I'm Michael! Software Developer and Avid Learner
 
 - 👋 Hi, I’m Michael, a Senior Computer Science Student @ Oregon State University! 
-- 👀 I’m enjoy actively learning about Full Stack Web Development, Cloud development, & AI/ML.
-- 🌱 I’m currently learning about NextJS, Rust, and general purpose back-end frameworks.
-- 💞️ I’m looking for other ambitious developers to collaborate on full stack web apps.
+- 👀 I’m enjoy actively learning about Back-end REST API Cloud Development with Google Cloud Platform, Terraform, & the MERN stack.
+- 🌱 I’m looking forward to learning about NextJS, Rust, and Go
+- 💞️ I’m looking for other ambitious developers to collaborate on full stack real-world applicable web apps.
 - 📫 How to reach me:<br /> 
                    Email: michaelmorriss14@gmail.com <br /> 
                    LinkedIn: https://www.linkedin.com/in/mcmorriss/
