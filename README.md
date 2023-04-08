@@ -1,3 +1,5 @@
+# 👋  Hello, I'm Michael, Software Developer and Senior Computer Science Student @ Oregon State University!
+
 - 👋 Hi, I’m Michael, a Senior Computer Science Student @ Oregon State University! 
 - 👀 I’m enjoy actively learning about Full Stack Web Development, Cloud development, & AI/ML.
 - 🌱 I’m currently learning about NextJS, Rust, and general purpose back-end frameworks.
