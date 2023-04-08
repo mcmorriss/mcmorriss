@@ -5,7 +5,7 @@
 - 🤘🏻  I'm familiarizing myself with **Docker** and **Kubernetes**.
 - 🌱 I’m looking forward to learning about **NextJS**, **Rust**, and **Go**.
 - 💞️ I’m looking for other ambitious developers to collaborate on full stack real-world applicable web apps.
-- 📫 How to reach me: <a href="michaelmorriss14@gmail.com">**Email:**</a> *or* <a href="https://www.linkedin.com/in/mcmorriss/"> **LinkedIn:** </a>
+- 📫 How to reach me: **Email: michaelmorriss14@gmail.com** *or* <a href="https://www.linkedin.com/in/mcmorriss/"> **LinkedIn:** </a>
                    
           
 ## My most recent project (as of 4/3/2023): <a href="https://github.com/mcmorriss/CodePathProjects/tree/main/Project5-DataDashboard"> *NBA Stat Hub* </a>
